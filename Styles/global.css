@@ -48,9 +48,12 @@ img {
     padding-inline: 32px;
     margin-inline: auto;
 }
+
 main {
     margin-top: 40px;
+    gap: 80px;
 }
+
 .contant-tag {
     display: inline-block;
     background-color: var(--brand-color-dark);
