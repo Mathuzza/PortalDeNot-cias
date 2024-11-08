@@ -4,12 +4,12 @@
 
 <p align="center">
 
-<img src="./PrinS1.jpg" alt="Print projeto em execução">
+<img src="PrinS1.JPG" alt="Print projeto em execução">
 
 </p>
 <p align="center">
 
-<img src="./PrinS2.jpg" alt="Print projeto em execução">
+<img src="PrinS2.jpg" alt="Print projeto em execução">
 
 </p>
 
