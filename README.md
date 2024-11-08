@@ -9,7 +9,7 @@
 </p>
 <p align="center">
 
-<img src="PrinS2.jpg" alt="Print projeto em execução">
+<img src="PrinS2.JPG" alt="Print projeto em execução">
 
 </p>
 
